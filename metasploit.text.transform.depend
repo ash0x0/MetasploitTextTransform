@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1453809399 source:/home/ahmed/Documents/metasploit.text.transform/main.cpp
-	<iostream>
-	<string>
-	<cstdio>
-	<thread>
-	<chrono>
-
